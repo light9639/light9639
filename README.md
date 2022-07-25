@@ -1,11 +1,9 @@
-<h2 align="center">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Lee Dong Ho, Frontend Web Developer :computer:<br>
-  <br>
-    <img src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+<abc>
+ <h2>✨ ABOUT ME ✨</h2>
+ <img src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="300">
+ <p>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></p>
+ <p>I'm Lee Dong Ho, Frontend Web Developer :computer:</p>
+</abc>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p>
