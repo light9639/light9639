@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="500" align="left">
+<img src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="475" align="left">
 
 <div>
  <h2>✨ ABOUT ME ✨</h2>
@@ -65,6 +65,10 @@
  &nbsp;&nbsp;
  <a href="https://github.com/" target="_blank">
   <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github" title="github" width="40" height="40" />
+ </a>
+ &nbsp;&nbsp;
+ <a href="https://yarnpkg.com/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="github" title="yarn" width="40" height="40" />
  </a>
 </p>
 
