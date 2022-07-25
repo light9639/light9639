@@ -1,9 +1,9 @@
-<div>
- <img class="robot" src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="500">
+ ![robot-error-404](https://user-images.githubusercontent.com/95972251/180725375-2f8f9f85-eec3-48f3-9635-aaae0acef9ea.gif)
+<!--   <img class="robot" src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="500"> -->
  <h2>✨ ABOUT ME ✨</h2>
  <p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></p>
  <p>I'm Lee Dong Ho, Frontend Web Developer :computer:</p>
-</div>
+ 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p>
