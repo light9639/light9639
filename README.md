@@ -1,4 +1,4 @@
-<h2 align="left">
+<h2 align="center">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Lee Dong Ho, Frontend Web Developer :computer:<br>
@@ -69,7 +69,7 @@
  </a>
 </p>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I Studying:</h2>
+<h2 align="left">:book: Technologies and Tools I Studying:</h2>
 <p>
  <a href="https://kr.vuejs.org/v2/guide/index.html" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/> 
@@ -88,14 +88,17 @@
  </a>
 </p>
 
-<h2 align="left">:book: Most Used Languages</h2>
+<!-- <h2 align="left">:book: Most Used Languages</h2>
 <div>
-<!--  <img src="http://mazandi.herokuapp.com/api?handle=light9639&theme=diamond1"/> -->
+ <img src="http://mazandi.herokuapp.com/api?handle=light9639&theme=diamond1"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&langs_count=8">
-</div>
+</div> -->
 
 <h2>⚡️ GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=light9639&show_icons=true"></p>
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=light9639&show_icons=true">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&layout=compact">
+</p>
 <!-- <h2 align="left">⚡️HITS & VISITERS</h2> -->
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flight9639&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="visitors">
