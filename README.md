@@ -5,6 +5,7 @@
 ### HITS
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flight9639&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<img src="http://mazandi.herokuapp.com/api?handle=light9639&theme=diamond1"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&langs_count=8">
 
