@@ -1,9 +1,10 @@
-<abc>
+<img src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="500" align="left">
+
+<div>
  <h2>✨ ABOUT ME ✨</h2>
- <img src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="300">
  <p>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></p>
  <p>I'm Lee Dong Ho, Frontend Web Developer :computer:</p>
-</abc>
+</div>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p>
@@ -63,7 +64,7 @@
  </a>
  &nbsp;&nbsp;
  <a href="https://github.com/" target="_blank">
-  <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github logo" title="github" width="40" height="40" />
+  <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" alt="github" title="github" width="40" height="40" />
  </a>
 </p>
 
@@ -84,13 +85,11 @@
   <a href="https://firebase.google.com/" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
  </a>
-</p>
-
-<!-- <h2 align="left">:book: Most Used Languages</h2>
-<div>
- <img src="http://mazandi.herokuapp.com/api?handle=light9639&theme=diamond1"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&langs_count=8">
-</div> -->
+ &nbsp;&nbsp;
+  <a href="https://jestjs.io/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+ </a>
+</p><br>
 
 <h2>⚡️ GitHub Stats</h2>
 <p>
