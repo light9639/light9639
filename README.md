@@ -2,7 +2,7 @@
  <img class="robot" src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="400" height="400">
  <h2>✨ ABOUT ME ✨</h2>
  <p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></p>
- <p>I'm Lee Dong Ho, Frontend Web Developer :computer:</p>
+ <p>I'm Lee Dong Ho, Frontend Web Developer :computer:</p><br>
  
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
@@ -69,7 +69,7 @@
  <a href="https://yarnpkg.com/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="github" title="yarn" width="40" height="40" />
  </a>
-</p>
+</p><br>
 
 <h2 align="left">:book: Technologies and Tools I Studying:</h2>
 <p>
