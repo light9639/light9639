@@ -41,6 +41,10 @@
   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/> 
  </a>
  &nbsp;&nbsp;
+  <a href="https://cloud.google.com/" target="_blank"> 
+   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> 
+ </a>
+ &nbsp;&nbsp;
  <a href="https://www.typescriptlang.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="40" height="40"/> 
  </a>
@@ -90,10 +94,6 @@
  &nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
- </a>
- &nbsp;&nbsp;
-  <a href="https://cloud.google.com/" target="_blank"> 
-   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> 
  </a>
  &nbsp;&nbsp;
   <a href="https://jestjs.io/" target="_blank"> 
