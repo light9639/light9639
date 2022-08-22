@@ -66,7 +66,7 @@
  </a>
 </p><br>
 
-<h2 align="left">:book: Technologies and Tools I Studying:</h2>
+<h2 align="left">:books: Technologies and Tools I Studying:</h2>
 <p>
  <a href="https://kr.vuejs.org/v2/guide/index.html" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/> 
