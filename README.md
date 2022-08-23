@@ -33,6 +33,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
  </a>
  &nbsp;&nbsp;
+ <a href="https://jquery.com/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> 
+ </a>
+ &nbsp;&nbsp;
  <a href="https://webpack.js.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> 
  </a>
