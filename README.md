@@ -2,7 +2,7 @@
 
 <h2>✨ ABOUT ME ✨</h2>
 <p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></p>
-<p>I'm Lee Dong Ho, Frontend Web Developer :computer:</p><br>
+<p>I'm Lee Dong Ho, Frontend Web Developer Junior :computer:</p><br>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p>
