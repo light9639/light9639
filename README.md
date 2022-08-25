@@ -1,4 +1,4 @@
-<img class="robot" src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="400" height="400">
+<img align="right" class="robot" src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="400" height="400">
 
 <h2>✨ ABOUT ME ✨</h2>
 <p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></p>
@@ -106,10 +106,16 @@
 </p><br>
 
 <h2>⚡️ GitHub Stats</h2>
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=light9639&show_icons=true">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&layout=compact">
-</p>
+<a href="#void">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=light9639&show_icons=true">
+</a>
+<a href="#void">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&layout=compact">
+</a>
+
+<br>
+<br>
+
 <!-- <h2 align="left">⚡️HITS & VISITERS</h2> -->
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flight9639&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="visitors">
