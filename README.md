@@ -106,18 +106,25 @@
 </p><br>
 
 <h2>⚡️ GitHub Stats</h2>
-<a href="#void">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=light9639&show_icons=true">
-</a>
-<a href="#void">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&layout=compact">
-</a>
 
-<br>
-<br>
-
-<!-- <h2 align="left">⚡️HITS & VISITERS</h2> -->
 <p>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flight9639&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="visitors">
   <img src="https://visitor-badge.glitch.me/badge?page_id=light9639.light9639" alt="visitors">
 </p>
+
+| <a href="#void"><img align="center" src="https://github-readme-stats.vercel.app/api?username=light9639&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#void"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!-- <h2>⚡️ Top Repositories</h2>
+<a href="https://github.com/light9639/light9639">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=light9639&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/light9639/PortFolio/tree/master">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=light9639&repo=light9639.github.io" />
+</a> -->
+
+<!-- <h2 align="left">⚡️HITS & VISITERS</h2> 
+<p align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flight9639&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="visitors">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=light9639.light9639" alt="visitors">
+</p> -->
