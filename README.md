@@ -112,7 +112,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=light9639.light9639" alt="visitors">
 </p>
 
-| <a href="#void"><img align="center" src="https://github-readme-stats.vercel.app/api?username=light9639&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /></a> | <a href="#void"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&layout=compact&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=light9639&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=light9639&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 <h2>:top: Top Repositories</h2>
