@@ -1,11 +1,11 @@
 <div align="center">
-  <img align="right" class="robot" src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="400" height="400">
+  <img align="left" class="robot" src="https://user-images.githubusercontent.com/95972251/180693173-4c987bcd-43a0-4c5c-beac-a05d5e396b91.gif" alt="Coder GIF" width="400" height="400">
 
  <h2>:sparkles: ABOUT ME :sparkles:</h2>
  <p>Hello there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></p>
  <p>I'm Lee Dong Ho, Frontend Web Developer Junior :computer:</p><br>
 
- <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+ <h2>:hammer_and_wrench: Technologies and Tools I use:</h2>
  <p>
  <a href="https://code.visualstudio.com/" target="_blank"> 
   <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" alt="visualstudio_code" width="40" height="40"/> </a>
@@ -71,7 +71,7 @@
   </a>
  </p><br>
 
- <h2 align="left">:books: Technologies and Tools I Studying:</h2>
+ <h2>:books: Technologies and Tools I Studying:</h2>
  <p>
   <a href="https://kr.vuejs.org/v2/guide/index.html" target="_blank"> 
    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/> 
