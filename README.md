@@ -46,10 +46,6 @@
    <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-   <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="40" height="40"/>
   </a>
@@ -111,6 +107,10 @@
   &nbsp;&nbsp;
    <a href="https://storybook.js.org/" target="_blank">
     <img src="https://duncanleung.com/static/4754115ddd48b63d252f8014e9a86177/92ab1/storybook.png" alt="jest" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+   <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
   </a>
  </p><br>
 
