@@ -104,6 +104,14 @@
    <a href="https://jestjs.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;
+   <a href="https://graphql.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="jest" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+   <a href="https://storybook.js.org/" target="_blank">
+    <img src="https://duncanleung.com/static/4754115ddd48b63d252f8014e9a86177/92ab1/storybook.png" alt="jest" width="40" height="40"/>
+  </a>
  </p><br>
 
  <h2>:zap: GitHub Stats</h2>
