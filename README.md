@@ -54,6 +54,10 @@
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank">
+   <img src="https://raw.githubusercontent.com/light9639/light9639/main/Icon%20Img/Next.js.jpg" alt="Next.js" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
