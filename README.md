@@ -38,14 +38,6 @@
    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://webpack.js.org/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://vitejs.dev/" target="_blank">
-   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescriptlang" width="40" height="40"/>
   </a>
@@ -54,8 +46,24 @@
    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://ko.redux.js.org/introduction/getting-started/" target="_blank">
+   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank">
    <img src="https://raw.githubusercontent.com/light9639/light9639/main/Icon%20Img/Next.js.jpg" alt="Next.js" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kr.vuejs.org/v2/guide/index.html" target="_blank">
+   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://webpack.js.org/" target="_blank">
+   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vitejs.dev/" target="_blank">
+   <img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
@@ -73,16 +81,12 @@
 
  <h2>:books: Technologies and Tools I Studying:</h2>
  <p>
-  <a href="https://kr.vuejs.org/v2/guide/index.html" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/>
+  <a href="https://flutter.dev/" target="_blank">
+   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutterio" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://svelte.dev/" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://flutter.dev/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutterio" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank">
