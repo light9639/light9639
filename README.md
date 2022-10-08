@@ -54,7 +54,7 @@
    <img src="https://raw.githubusercontent.com/light9639/light9639/main/Icon%20Img/Next.js.jpg" alt="Next.js" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://kr.vuejs.org/v2/guide/index.html" target="_blank">
+  <a href="https://vuejs.org/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
@@ -87,6 +87,10 @@
   &nbsp;&nbsp;
   <a href="https://svelte.dev/" target="_blank">
    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.electronjs.org/" target="_blank">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="Electron" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank">
