@@ -58,6 +58,10 @@
    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue" width="40" height="40"/>
   </a>
   &nbsp;&nbsp;
+  <a href="https://vuex.vuejs.org/" target="_blank">
+   <img src="https://raw.githubusercontent.com/light9639/light9639/main/Icon%20Img/Vuex.png" alt="Vuex" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://webpack.js.org/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/>
   </a>
