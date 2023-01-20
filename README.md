@@ -81,6 +81,14 @@
   <a href="https://yarnpkg.com/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-icon.svg" alt="github" title="yarn" width="40" height="40" />
   </a>
+    &nbsp;&nbsp;
+  <a href="https://www.adobe.com/kr/products/photoshop/landpa.html?gclid=Cj0KCQiA8aOeBhCWARIsANRFrQHpa_TE_Efs_hycm_4eXZbQheO4_FUwaEx8B_fRPEVAfkesLSXykfIaAsBYEALw_wcB&sdid=TBJRLR9V&mv=search&ef_id=Cj0KCQiA8aOeBhCWARIsANRFrQHpa_TE_Efs_hycm_4eXZbQheO4_FUwaEx8B_fRPEVAfkesLSXykfIaAsBYEALw_wcB:G:s&s_kwcid=AL!3085!3!380984034930!e!!g!!photoshop!97967719!4837432399" target="_blank">
+   <img src="https://raw.githubusercontent.com/light9639/light9639/main/Icon%20Img/Photoshop.png" alt="Photoshop" width="40" height="40" />
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://www.adobe.com/kr/products/illustrator.html?gclid=Cj0KCQiA8aOeBhCWARIsANRFrQHQel7NxINVqPFrAm9msoOwVJ7YdSbcyRZg6cjewpqdLtEiJA8SuIcaAk-xEALw_wcB&sdid=T6SQLW1W&mv=search&ef_id=Cj0KCQiA8aOeBhCWARIsANRFrQHQel7NxINVqPFrAm9msoOwVJ7YdSbcyRZg6cjewpqdLtEiJA8SuIcaAk-xEALw_wcB:G:s&s_kwcid=AL!3085!3!460585117331!e!!g!!illustrator!95734519!4169949319" target="_blank">
+   <img src="https://raw.githubusercontent.com/light9639/light9639/main/Icon%20Img/Illustrator.png" title="Illustrator" width="40" height="40" />
+  </a>
  </p><br>
 
  <h2>:books: Technologies and Tools I Studying:</h2>
@@ -123,10 +131,6 @@
   &nbsp;&nbsp;
    <a href="https://storybook.js.org/" target="_blank">
     <img src="https://duncanleung.com/static/4754115ddd48b63d252f8014e9a86177/92ab1/storybook.png" alt="jest" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-   <a href="https://cloud.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/>
   </a>
  </p><br>
 
